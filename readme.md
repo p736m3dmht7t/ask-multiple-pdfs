@@ -60,7 +60,7 @@ To use the MultiPDF Chat App, follow these steps:
 ```mermaid
 flowchart TD
 A["Initialize\nconversation &\nchat_history"]
-```
+``` 
 
 ## Contributing
 ------------
